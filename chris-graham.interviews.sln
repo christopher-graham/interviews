@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chris-graham.interviews.pal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chris-graham.interviews.fizzbuzz", "chris-graham.interviews.fizzbuzz\chris-graham.interviews.fizzbuzz.csproj", "{71EC6C5F-0833-417F-A959-6753EF572884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chris-graham.interviews.primenumbers", "chris-graham.interviews.primenumbers\chris-graham.interviews.primenumbers.csproj", "{B2DD908B-3B83-4853-85F4-A59AC399FBC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{71EC6C5F-0833-417F-A959-6753EF572884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EC6C5F-0833-417F-A959-6753EF572884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EC6C5F-0833-417F-A959-6753EF572884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DD908B-3B83-4853-85F4-A59AC399FBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DD908B-3B83-4853-85F4-A59AC399FBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DD908B-3B83-4853-85F4-A59AC399FBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DD908B-3B83-4853-85F4-A59AC399FBC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
